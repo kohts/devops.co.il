@@ -1,0 +1,11 @@
+A device for the storage and retrieval of usernames
+from trending twitter messages to and from a nosql database.
+
+1) clone the repo
+
+2) run vagrant up
+
+3) browse to http://127.0.0.1:8080
+
+
+Created for devops.co.il.
